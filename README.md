@@ -124,16 +124,3 @@ install.packages("GGally")
 
 ---
 
-## 📜 License
-
-This project is for **educational purposes** only.
-
----
-
-If you want, I can also:
-
-* Add **sample output images** section 📸
-* Write a **short project description for resume**
-* Clean the code and make it more “submission-ready” for college
-
-Just say the word 😄
